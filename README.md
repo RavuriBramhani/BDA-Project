@@ -79,9 +79,9 @@ spark = SparkSession.builder.appName("AML Project").getOrCreate()
 python main.py  
 
 ## Contributors
-- Your Name  
-- Team Member 2  
-- Team Member 3  
+- R Bramhani 
+- G Sheetal 
+- P Amrutha 
 
 ## Conclusion
 This project demonstrates how combining Big Data and Machine Learning can effectively detect money laundering activities. It provides a scalable and efficient approach for financial fraud detection.
